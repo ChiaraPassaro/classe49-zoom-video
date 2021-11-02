@@ -1,0 +1,20 @@
+:root {
+  --bg-color: black;
+  --font-color: white;
+  --button-bg-color: #4A4A4A;
+  --button-active-color: #4BC800;
+  --header-height: 40px;
+  --footer-height: 80px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+  font-family: "Roboto", sans-serif;
+  color: var(--font-color);
+}
